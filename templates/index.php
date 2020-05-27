@@ -86,94 +86,94 @@
                 <br>
                 <p>      
                 <label class="w3-text-black"><b>Radius_mean</b></label>
-                <input class="w3-input w3-border w3-sand" name="Radius_mean" type="text">     </p>
+                <input class="w3-input w3-border w3-sand" name="Radius_mean" type="text" required="required">     </p>
                <p>      
                 <label class="w3-text-black"><b>Texture_Mean</b></label>
-                <input class="w3-input w3-border w3-sand" name="Texture_Mean" type="text">     </p>
+                <input class="w3-input w3-border w3-sand" name="Texture_Mean" type="text" required="required">     </p>
                <p>      
                 <label class="w3-text-black"><b>Perimete_Mean</b></label>
-                <input class="w3-input w3-border w3-sand" name="Perimete_Mean" type="text">     </p>
+                <input class="w3-input w3-border w3-sand" name="Perimete_Mean" type="text" required="required">     </p>
                <p>      
                 <label class="w3-text-black"><b>Area_Mean</b></label>
-                <input class="w3-input w3-border w3-sand" name="Area_Mean" type="text">     </p>
+                <input class="w3-input w3-border w3-sand" name="Area_Mean" type="text" required="required">     </p>
                <p>      
                 <label class="w3-text-black"><b>Smoothness_Mean</b></label>
-                <input class="w3-input w3-border w3-sand" name="Smoothness_Mean" type="text">     </p>
+                <input class="w3-input w3-border w3-sand" name="Smoothness_Mean" type="text" required="required">     </p>
                <p>      
                 <label class="w3-text-black"><b>compactness_mean</b></label>
-                <input class="w3-input w3-border w3-sand" name="compactness_mean" type="text">     </p>
+                <input class="w3-input w3-border w3-sand" name="compactness_mean" type="text" required="required">     </p>
                <p>      
                 <label class="w3-text-black"><b>concavity_mean</b></label>
-                <input class="w3-input w3-border w3-sand" name="concavity_mean" type="text">     </p>
+                <input class="w3-input w3-border w3-sand" name="concavity_mean" type="text" required="required">     </p>
                <p>      
                 <label class="w3-text-black"><b>concave points_mean</b></label>
-                <input class="w3-input w3-border w3-sand" name="concave points_mean" type="text">     </p>
+                <input class="w3-input w3-border w3-sand" name="concave points_mean" type="text" required="required">     </p>
                <p>      
                 <label class="w3-text-black"><b>symmetry_mean</b></label>
-                <input class="w3-input w3-border w3-sand" name="symmetry_mean" type="text">     </p>
+                <input class="w3-input w3-border w3-sand" name="symmetry_mean" type="text" required="required">     </p>
                <p>      
                 <label class="w3-text-black"><b>fractal_dimension_mean</b></label>
-                <input class="w3-input w3-border w3-sand" name="fractal_dimension_mean" type="text">     </p>
+                <input class="w3-input w3-border w3-sand" name="fractal_dimension_mean" type="text" required="required">     </p>
                <p>      
                 <label class="w3-text-black"><b>radius_se</b></label>
-                <input class="w3-input w3-border w3-sand" name="radius_se" type="text">     </p>
+                <input class="w3-input w3-border w3-sand" name="radius_se" type="text" required="required">     </p>
                <p>      
                 <label class="w3-text-black"><b>texture_se</b></label>
-                <input class="w3-input w3-border w3-sand" name="texture_se" type="text">     </p>
+                <input class="w3-input w3-border w3-sand" name="texture_se" type="text" required="required">     </p>
                <p>      
                 <label class="w3-text-black"><b>perimeter_se</b></label>
-                <input class="w3-input w3-border w3-sand" name="perimeter_se" type="text">     </p>
+                <input class="w3-input w3-border w3-sand" name="perimeter_se" type="text" required="required">     </p>
                <p>      
                 <label class="w3-text-black"><b>area_se</b></label>
-                <input class="w3-input w3-border w3-sand" name="area_se" type="text">     </p>
+                <input class="w3-input w3-border w3-sand" name="area_se" type="text" required="required">     </p>
                <p>      
                 <label class="w3-text-black"><b>smoothness_se</b></label>
-                <input class="w3-input w3-border w3-sand" name="smoothness_se" type="text">     </p>
+                <input class="w3-input w3-border w3-sand" name="smoothness_se" type="text" required="required">     </p>
                <p>      
                 <label class="w3-text-black"><b>compactness_se</b></label>
-                <input class="w3-input w3-border w3-sand" name="compactness_se" type="text">     </p>
+                <input class="w3-input w3-border w3-sand" name="compactness_se" type="text" required="required">     </p>
                <p>      
                 <label class="w3-text-black"><b>concavity_se</b></label>
-                <input class="w3-input w3-border w3-sand" name="concavity_se" type="text">     </p>
+                <input class="w3-input w3-border w3-sand" name="concavity_se" type="text" required="required">     </p>
                <p>      
                 <label class="w3-text-black"><b>concave points_se</b></label>
-                <input class="w3-input w3-border w3-sand" name="concave points_se" type="text">     </p>
+                <input class="w3-input w3-border w3-sand" name="concave points_se" type="text" required="required">     </p>
                <p>      
                 <label class="w3-text-black"><b>symmetry_se</b></label>
-                <input class="w3-input w3-border w3-sand" name="symmetry_se" type="text">     </p>
+                <input class="w3-input w3-border w3-sand" name="symmetry_se" type="text" required="required">     </p>
                <p>      
                 <label class="w3-text-black"><b>fractal_dimension_se</b></label>
-                <input class="w3-input w3-border w3-sand" name="fractal_dimension_se" type="text">     </p>
+                <input class="w3-input w3-border w3-sand" name="fractal_dimension_se" type="text" required="required">     </p>
                <p>      
                 <label class="w3-text-black"><b>radius_worst</b></label>
-                <input class="w3-input w3-border w3-sand" name="radius_worst" type="text">     </p>
+                <input class="w3-input w3-border w3-sand" name="radius_worst" type="text" required="required">     </p>
                <p>      
                 <label class="w3-text-black"><b>texture_worst</b></label>
-                <input class="w3-input w3-border w3-sand" name="texture_worst" type="text">     </p>
+                <input class="w3-input w3-border w3-sand" name="texture_worst" type="text" required="required">     </p>
                <p>      
                 <label class="w3-text-black"><b>perimeter_worst</b></label>
-                <input class="w3-input w3-border w3-sand" name="perimeter_worst" type="text">     </p>
+                <input class="w3-input w3-border w3-sand" name="perimeter_worst" type="text" required="required">     </p>
               <p>      
                 <label class="w3-text-black"><b>area_worst</b></label>
-                <input class="w3-input w3-border w3-sand" name="area_worst" type="text">     </p>
+                <input class="w3-input w3-border w3-sand" name="area_worst" type="text" required="required">     </p>
               <p>      
                 <label class="w3-text-black"><b>smoothness_worst</b></label>
-                <input class="w3-input w3-border w3-sand" name="smoothness_worst" type="text">     </p>
+                <input class="w3-input w3-border w3-sand" name="smoothness_worst" type="text" required="required">     </p>
               <p>      
                 <label class="w3-text-black"><b>compactness_worst</b></label>
-                <input class="w3-input w3-border w3-sand" name="compactness_worst" type="text">     </p>
+                <input class="w3-input w3-border w3-sand" name="compactness_worst" type="text" required="required">     </p>
               <p>      
                 <label class="w3-text-black"><b>concavity_worst</b></label>
-                <input class="w3-input w3-border w3-sand" name="concavity_worst" type="text">     </p>
+                <input class="w3-input w3-border w3-sand" name="concavity_worst" type="text" required="required">     </p>
               <p>      
                 <label class="w3-text-black"><b>Rconcave points_worst</b></label>
-                <input class="w3-input w3-border w3-sand" name="concave points_worst" type="text">     </p>
+                <input class="w3-input w3-border w3-sand" name="concave points_worst" type="text" required="required">     </p>
               <p>      
                 <label class="w3-text-black"><b>symmetry_worst</b></label>
-                <input class="w3-input w3-border w3-sand" name="symmetry_worst" type="text">     </p>
+                <input class="w3-input w3-border w3-sand" name="symmetry_worst" type="text" required="required">     </p>
               <p>      
                 <label class="w3-text-black"><b>fractal_dimension_worst</b></label>
-                <input class="w3-input w3-border w3-sand" name="fractal_dimension_worst" type="text">     </p>
+                <input class="w3-input w3-border w3-sand" name="fractal_dimension_worst" type="text" required="required">     </p>
             
                 <p>
                 <button type="submit"class="w3-btn w3-black">Analyse now</button></p>
